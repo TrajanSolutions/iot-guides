@@ -16,7 +16,6 @@ No hardware has been tested for this repository yet. Performance results will be
 - [Roadmap](ROADMAP.md)
 - [Tutorial template](templates/tutorial.md)
 - [Contributing](CONTRIBUTING.md)
-- [Storage learning](https://github.com/TrajanSolutions/nubes-guides)
 - [Security learning](https://github.com/TrajanSolutions/security-guides)
 
 Use authorized equipment and test locations. Verify the applicable regional radio settings before transmitting. Share synthetic messages and avoid publishing private locations or device keys.
